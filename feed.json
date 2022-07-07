@@ -7,12 +7,57 @@
 	"items": [
 		
 			{
+				"id": "http://gulbrandsenphoto.micro.blog/2022/04/11/ive-started-using.html",
+				
+				"content_html": "<p>I&rsquo;ve started using photo sharing community <a href=\"https://glass.photo\">Glass</a> (signed up when it launched but never started using until very recently) - feel free to <a href=\"https://glass.photo/jonathan-gulbrandsen\">follow me there</a> if you are interested in seeing photos I take and share!</p>\n<p><a href=\"https://glass.photo/jonathan-gulbrandsen\"><!-- raw HTML omitted --></a></p>\n",
+				"content_text": "I've started using photo sharing community [Glass](https://glass.photo) (signed up when it launched but never started using until very recently) - feel free to [follow me there](https://glass.photo/jonathan-gulbrandsen) if you are interested in seeing photos I take and share!\n\n[<img src=\"uploads/2022/36e5f361a9.jpg\" width=\"600\" height=\"400\" alt=\"\" />](https://glass.photo/jonathan-gulbrandsen)\n",
+				"date_published": "2022-04-11T22:18:00+02:00",
+				"url": "https://www.jonathangulbrandsen.me/2022/04/11/ive-started-using.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://gulbrandsenphoto.micro.blog/2022/04/11/finished-reading-artemis.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780525572671\">Artemis</a> by Andy Weir 📚 Mini-review: High expectations after finishing Project Hail Mary just before it. But too weirdly/overly horny which rang strange with the male author and female lead.</p>\n",
+				"content_text": "Finished reading: [Artemis](https://micro.blog/books/9780525572671) by Andy Weir 📚 Mini-review: High expectations after finishing Project Hail Mary just before it. But too weirdly/overly horny which rang strange with the male author and female lead. \n",
+				"date_published": "2022-04-04T22:46:00+02:00",
+				"url": "https://www.jonathangulbrandsen.me/2022/04/11/finished-reading-artemis.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://gulbrandsenphoto.micro.blog/2022/03/30/how-is-this.html",
 				
 				"content_html": "<p>How is this NOT an April&rsquo;s fools joke? \n<a href=\"https://www.dyson.se/wearables/dyson-zone-air-purifying-headphones/announcement?\">Dyson Zone air-purifying headphones</a>\nThey have gone mad.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "How is this NOT an April's fools joke? \r\n[Dyson Zone air-purifying headphones](https://www.dyson.se/wearables/dyson-zone-air-purifying-headphones/announcement?)\r\nThey have gone mad.\n\n<img src=\"uploads/2022/4d359a26b6.png\" width=\"600\" height=\"548\" alt=\"\" />\n",
 				"date_published": "2022-03-30T09:02:28+02:00",
 				"url": "https://www.jonathangulbrandsen.me/2022/03/30/how-is-this.html"
+			},
+			{
+				"id": "http://gulbrandsenphoto.micro.blog/2022/04/11/finished-reading-project.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473582583\">Project Hail Mary</a> by Andy Weir 📚 Really loved this book. The amount of science combined with humor and a real heart was just awesome.</p>\n",
+				"content_text": "Finished reading: [Project Hail Mary](https://micro.blog/books/9781473582583) by Andy Weir 📚 Really loved this book. The amount of science combined with humor and a real heart was just awesome.\n",
+				"date_published": "2022-03-26T22:51:00+02:00",
+				"url": "https://www.jonathangulbrandsen.me/2022/04/11/finished-reading-project.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://gulbrandsenphoto.micro.blog/2022/04/11/finished-reading-termination.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780008404383\">Termination Shock</a> by Neal Stephenson 📚</p>\n",
+				"content_text": "Finished reading: [Termination Shock](https://micro.blog/books/9780008404383) by Neal Stephenson 📚\n",
+				"date_published": "2022-03-13T22:55:00+02:00",
+				"url": "https://www.jonathangulbrandsen.me/2022/04/11/finished-reading-termination.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://gulbrandsenphoto.micro.blog/2022/04/11/finished-reading-billy.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781529365696\">Billy Summers</a> by Stephen King 📚</p>\n",
+				"content_text": "Finished reading: [Billy Summers](https://micro.blog/books/9781529365696) by Stephen King 📚\n",
+				"date_published": "2022-02-17T22:57:00+02:00",
+				"url": "https://www.jonathangulbrandsen.me/2022/04/11/finished-reading-billy.html",
+				"tags": ["Reading"]
 			},
 			{
 				"id": "http://gulbrandsenphoto.micro.blog/2021/09/23/man-do-i.html",
